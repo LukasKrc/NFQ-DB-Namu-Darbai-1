@@ -1,1 +1,3 @@
-# NFQ-DB-Namu-Darbai-1
+# NFQ DB Namų darbai nr. 1
+
+Lukas Kriaučiūnas
